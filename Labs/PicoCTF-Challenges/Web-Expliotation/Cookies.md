@@ -11,7 +11,7 @@ Then I put a valid cookie 'wafer' and got this:
 ![](../../../screenshots/Pasted%20image%2020250930172823.png)
 I inspected the page for both of the behavior (for valid and invalid cookie) and notice that,
 For valid cookie the cookie 'name' is a valid number greater than -1,
-![](../../../screenshots/Pasted%20image%2020250930173155.png)
+![](screenshots/Pasted%20image%2020250930173155.png)
 but for invalid cookie it was always 1.
 
 What is did then,
