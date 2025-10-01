@@ -1,17 +1,17 @@
 **What the challenge was?**
-![](../../../screenshots/Pasted%20image%2020250930172146.png)
+![](screenshots/Pasted%20image%2020250930172146.png)
 
 **How did I solve it?**
 
 clicked the given link and went to this page 
-![](../../../screenshots/Pasted%20image%2020250930172622.png)
+![](screenshots/Pasted%20image%2020250930172622.png)
 Here when I put random values, I got this:
-![](../../../screenshots/Pasted%20image%2020250930172731.png)
+![](screenshots/Pasted%20image%2020250930172731.png)
 Then I put a valid cookie 'wafer' and got this:
-![](../../../screenshots/Pasted%20image%2020250930172823.png)
+![](screenshots/Pasted%20image%2020250930172823.png)
 I inspected the page for both of the behavior (for valid and invalid cookie) and notice that,
 For valid cookie the cookie 'name' is a valid number greater than -1,
-![](../../../screenshots/Pasted%20image%2020250930173155.png)
+![](screenshots/Pasted%20image%2020250930173155.png)
 but for invalid cookie it was always 1.
 
 What is did then,
@@ -21,7 +21,7 @@ What is did then,
 - Started the attack
 
 What I found:
-![](../../../screenshots/Pasted%20image%2020250930173635.png)
+![](screenshots/Pasted%20image%2020250930173635.png)
 
 I got the flag and hence i completed the challenge.
 
