@@ -4,6 +4,7 @@ I explain the problem, the tools and commands I used, the vulnerabilities I disc
 
 Given challenge is:
 ![](screenshots/Pasted%20image%2020250930193558.png)
+
 I have given this web page
 ![](screenshots/Pasted%20image%2020250930195601.png)
 
