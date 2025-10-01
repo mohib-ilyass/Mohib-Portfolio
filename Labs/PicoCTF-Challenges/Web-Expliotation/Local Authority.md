@@ -3,15 +3,15 @@ I explain the problem, the tools and commands I used, the vulnerabilities I disc
 **Tools used:**  Browser DevTool
 
 Given challenge is:
-![](../../../screenshots/Pasted%20image%2020250930193558.png)
+![](screenshots/Pasted%20image%2020250930193558.png)
 I have given this web page
-![](../../../screenshots/Pasted%20image%2020250930195601.png)
+![](screenshots/Pasted%20image%2020250930195601.png)
 
 I tried login in with random passwords but login failed always
-![](../../../screenshots/Pasted%20image%2020250930195753.png)
+![](screenshots/Pasted%20image%2020250930195753.png)
 
 I inspected the page after failed login found an insecure javascript file where password was visible:
-![](../../../screenshots/Pasted%20image%2020250930195924.png)
+![](screenshots/Pasted%20image%2020250930195924.png)
 I used the credentials to login and got the flag.
 
 **Vulnerabilities & Fixes:**
